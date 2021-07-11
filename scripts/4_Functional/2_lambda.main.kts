@@ -11,4 +11,3 @@ println(upperCase2("hello"))
 println(upperCase3("hello"))
 println(upperCase5("hello"))
 println(upperCase6("hello"))
-
